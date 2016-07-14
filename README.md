@@ -41,9 +41,7 @@ index 62a63c8..a5a8470 100644
 --- a/test.py 
 +++ b/test.py 
 @@ -1,6 +1,7 @@ 
- # Program to check if a string 
- #  is palindrome or not 
- 
+
 +#!/usr/bin/python 
   take input from the user 
  my_str = input("Enter a string: ") 
@@ -53,7 +51,6 @@ index 62a63c8..a5a8470 100644
 /Test# git commit -m "adding a line" 
 
 /Test# git push origin origin/sneha 
-
 
 root@MWPYT106:/home/sneha/Desktop/Raxak/tesfork/Test# git checkout origin/origin/sneha 
 
