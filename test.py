@@ -1,6 +1,6 @@
 # Program to check if a string
 #  is palindrome or not
-
+#adding the path for python
 #!/usr/bin/python
 # take input from the user
 my_str = input("Enter a string: ")
