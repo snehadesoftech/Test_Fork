@@ -24,9 +24,9 @@ git merge
 
 Commands:
 
-# git clone https://github.com/SnehaDL/Test.git 
+git clone https://github.com/SnehaDL/Test.git 
 
-# cd Test/ 
+cd Test/ 
 
 /Test# ls -ltr 
 total 8 
@@ -45,7 +45,7 @@ index 62a63c8..a5a8470 100644
  #  is palindrome or not 
  
 +#!/usr/bin/python 
- # take input from the user 
+  take input from the user 
  my_str = input("Enter a string: ") 
  
 /Test# git add –all 
@@ -73,12 +73,12 @@ index a5a8470..75ae3ca 100644
 --- a/test.py 
 +++ b/test.py 
 @@ -1,6 +1,6 @@ 
- # Program to check if a string 
- #  is palindrome or not 
+  Program to check if a string 
+   is palindrome or not 
 - 
 +#adding the path for python 
- #!/usr/bin/python 
- # take input from the user 
+ !/usr/bin/python 
+  take input from the user 
  my_str = input("Enter a string: ") 
 
 root@MWPYT106:/home/sneha/Desktop/Raxak/tesfork/Test# git add -all 
