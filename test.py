@@ -17,6 +17,7 @@ if list(my_str) == list(rev_str):
 else:
    print("It is not palindrome")
 
+#inserting the bubblesort with the comment
 def bubble_sort(items):
         """ Implementation of bubble sort """
         for i in range(len(items)):
